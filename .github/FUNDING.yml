@@ -10,4 +10,5 @@ lfx_crowdfunding: #cloud-foundry
 polar: #your_polar_username
 buy_me_a_coffee: #your_buy_me_a_coffee_username
 thanks_dev: #your_thanks_dev_username
-custom: <iframe src="https://discord.com/widget?id=1574793970054070353&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+custom: ##Join our Discord
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20us-7289da?logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
