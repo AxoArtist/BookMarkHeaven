@@ -1,15 +1,13 @@
-# These are supported funding model platforms
-
-github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
+github: #[user1, user2]
 patreon: BookMarkHeaven
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
-liberapay: # Replace with a single Liberapay username
-issuehunt: # Replace with a single IssueHunt username
-lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
-polar: # Replace with a single Polar username
-buy_me_a_coffee: # Replace with a single Buy Me a Coffee username
-thanks_dev: # Replace with a single thanks.dev username
+open_collective: #your_open_collective_username
+ko_fi: #your_ko_fi_username
+tidelift: #npm/babel
+community_bridge: #cloud-foundry
+liberapay: #your_liberapay_username
+issuehunt: #your_issuehunt_username
+lfx_crowdfunding: #cloud-foundry
+polar: #your_polar_username
+buy_me_a_coffee: #your_buy_me_a_coffee_username
+thanks_dev: #your_thanks_dev_username
 custom: <iframe src="https://discord.com/widget?id=1574793970054070353&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
